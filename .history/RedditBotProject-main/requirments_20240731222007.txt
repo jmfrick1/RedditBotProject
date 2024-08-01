@@ -1,0 +1,5 @@
+praw
+beautifulsoup4
+requests
+openai
+tk
